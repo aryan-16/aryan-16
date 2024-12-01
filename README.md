@@ -10,6 +10,6 @@
 - 🌱 I’m currently learning Android architecture and Jetpack Components
 - 👯 I’m looking to collaborate on some projects having 
 - 🤔 I’m looking for help with some of complex projects having clean architecture
-- 📫 How to reach me: 📧 arya.aryan1five@gmail.com
+- 📫 How to reach me: 📧 aryaaryan.work@gmail.com
 
 
