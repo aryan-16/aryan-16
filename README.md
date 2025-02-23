@@ -1,25 +1,25 @@
+# 💫 About Me:
+🚀 **About Me**  
+Hi! I'm **Aryan Arya**, a Pre-Final Year **B.Tech** student at **IIIT Una**, specializing in **Information Technology**.  
+I’m passionate about **Android development, data analysis, and business analytics**.  
+I love building **scalable, high-performance mobile applications** and leveraging **data-driven insights** to enhance decision-making and user experiences.  
 
-## 🚀 About Me  
-
-Hi! I'm **Aryan Arya**, a **Pre-Final Year B.Tech student** at **IIIT Una**, specializing in **Information Technology**.  
-I’m passionate about **Android development, data analysis, and business analytics**. I love building **scalable, high-performance mobile applications** and leveraging **data-driven insights** to enhance decision-making and user experiences.  
-
-## 💻 Currently Working On:  
+### 💻 Currently Working On:
 - **Healthify** – A one-stop solution for **health and wellness**.  
 - **WellnessBuddy** – An application focused on **mental wellness**, offering tools for **mindfulness, therapy, and self-care**.  
 
-## 👨‍💻 Experience & Interests:  
-- **Android Developer Intern @ Handlers** – Working on **MVVM architecture**, **Jetpack Components**, and optimizing app performance.  
+### 👨‍💻 Experience & Interests:
+- **Android Developer Intern @ Handlers** – Working on **MVVM architecture, Jetpack Components**, and optimizing app performance.  
 - Skilled in **integrating third-party SDKs** for **analytics, payments, authentication, and cloud services**.  
 - Experienced with **Retrofit, Firebase, Google SDKs, OneSignal, and more**.  
-- Strong interest in **Data Analysis & Business Insights** – I love learning how to **clean, visualize, and extract meaningful insights from data** to drive **better business decisions**.  
+- **Strong interest in Data Analysis & Business Insights** – I love learning how to **clean, visualize, and extract meaningful insights** from data to drive **better business decisions**.  
 
-## 📌 Looking for:  
-- Opportunities to work on **challenging projects** with **clean architecture** and **scalable solutions**.  
+### 📌 Looking for:
+- Opportunities to work on **challenging projects** with **clean architecture and scalable solutions**.  
 - Collaboration with developers passionate about **Android, UI/UX, third-party integrations, and data-driven decision-making**.  
 
-## 📬 Let's Connect!  
-📧 **Email:** [aryaaryan.work@gmail.com](mailto:aryaaryan.work@gmail.com)  
+📬 **Let's Connect!**  
+📧 Email: **aryaaryan.work@gmail.com**  
 
 ---
 
@@ -30,41 +30,57 @@ I’m passionate about **Android development, data analysis, and business analyt
 
 ---
 
-## 💻 Tech Stack:
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)  
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)  
-![Retrofit](https://img.shields.io/badge/Retrofit-007ACC?style=for-the-badge)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)  
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)  
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)  
-![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)  
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)  
+# 💻 Tech Stack:
+<p align="center">
+  <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-%2300C853.svg?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-%230098FF.svg?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
+  <img src="https://img.shields.io/badge/Retrofit-%230078D7.svg?style=for-the-badge&logo=retrofit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MaterialUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white"/>
+</p>
 
 ---
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aryan-16&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=aryan-16&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-16&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aryan-16&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryan-16&theme=dark&hide_border=false"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-16&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+</p>
 
 ---
 
-## ✍️ Random Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
+### ✍️ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
 
 ---
 
-## 🔝 Top Contributed Repo:
-![](https://github-contributor-stats.vercel.app/api?username=aryan-16&limit=5&theme=dark&combine_all_yearly_contributions=true)  
+### 🔝 Top Contributed Repo
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=aryan-16&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+</p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=aryan-16&icon=0&color=0)](https://visitcount.itsvg.in)  
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=aryan-16&icon=0&color=0"/>
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
