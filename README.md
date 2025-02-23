@@ -1,5 +1,4 @@
-# 💫 About Me:
-🚀 **About Me**  
+# 🎧 About Me:
 Hi! I'm **Aryan Arya**, a Pre-Final Year **B.Tech** student at **IIIT Una**, specializing in **Information Technology**.  
 I’m passionate about **Android development, data analysis, and business analytics**.  
 I love building **scalable, high-performance mobile applications** and leveraging **data-driven insights** to enhance decision-making and user experiences.  
