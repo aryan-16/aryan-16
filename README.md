@@ -1,24 +1,70 @@
-# 💫 About Me:
-🚀 About Me<br><br>Hi! I'm Aryan Arya, a Pre-Final Year B.Tech student at IIIT Una, specializing in Information Technology. I’m passionate about Android development, data analysis, and business analytics. I love building scalable, high-performance mobile applications and leveraging data-driven insights to enhance decision-making and user experiences.<br><br>💻 Currently Working On:<br><br>Healthify – A one-stop solution for health and wellness.<br>WellnessBuddy – An application focused on mental wellness, offering tools for mindfulness, therapy, and self-care.<br>👨‍💻 Experience & Interests:<br><br>Android Developer Intern @ Handlers – Working on MVVM architecture, Jetpack Components, and optimizing app performance.<br>Skilled in integrating third-party SDKs for analytics, payments, authentication, and cloud services.<br>Experienced with Retrofit, Firebase, Google SDKs, OneSignal, and more.<br>Strong interest in Data Analysis & Business Insights – I love learning how to clean, visualize, and extract meaningful insights from data to drive better business decisions.<br>📌 Looking for:<br><br>Opportunities to work on challenging projects with clean architecture and scalable solutions.<br>Collaboration with developers passionate about Android, UI/UX, third-party integrations, and data-driven decision-making.<br>📬 Let's Connect!<br>📧 Email: aryaaryan.work@gmail.com
 
+## 🚀 About Me  
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aryan.arya._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-arya-533640244) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryaaryan.work@gmail.com) 
+Hi! I'm **Aryan Arya**, a **Pre-Final Year B.Tech student** at **IIIT Una**, specializing in **Information Technology**.  
+I’m passionate about **Android development, data analysis, and business analytics**. I love building **scalable, high-performance mobile applications** and leveraging **data-driven insights** to enhance decision-making and user experiences.  
 
-# 💻 Tech Stack:
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=for-the-badge&logo=Airbnb&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=for-the-badge&logo=Airbnb&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aryan-16&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=aryan-16&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-16&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 💻 Currently Working On:  
+- **Healthify** – A one-stop solution for **health and wellness**.  
+- **WellnessBuddy** – An application focused on **mental wellness**, offering tools for **mindfulness, therapy, and self-care**.  
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 👨‍💻 Experience & Interests:  
+- **Android Developer Intern @ Handlers** – Working on **MVVM architecture**, **Jetpack Components**, and optimizing app performance.  
+- Skilled in **integrating third-party SDKs** for **analytics, payments, authentication, and cloud services**.  
+- Experienced with **Retrofit, Firebase, Google SDKs, OneSignal, and more**.  
+- Strong interest in **Data Analysis & Business Insights** – I love learning how to **clean, visualize, and extract meaningful insights from data** to drive **better business decisions**.  
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=aryan-16&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 📌 Looking for:  
+- Opportunities to work on **challenging projects** with **clean architecture** and **scalable solutions**.  
+- Collaboration with developers passionate about **Android, UI/UX, third-party integrations, and data-driven decision-making**.  
+
+## 📬 Let's Connect!  
+📧 **Email:** [aryaaryan.work@gmail.com](mailto:aryaaryan.work@gmail.com)  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=aryan-16&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aryan.arya._)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-arya-533640244)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryaaryan.work@gmail.com)  
+
+---
+
+## 💻 Tech Stack:
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)  
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)  
+![Retrofit](https://img.shields.io/badge/Retrofit-007ACC?style=for-the-badge)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)  
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)  
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)  
+![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)  
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)  
+
+---
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=aryan-16&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=aryan-16&theme=dark&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-16&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
+
+---
+
+## ✍️ Random Dev Quote:
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
+
+---
+
+## 🔝 Top Contributed Repo:
+![](https://github-contributor-stats.vercel.app/api?username=aryan-16&limit=5&theme=dark&combine_all_yearly_contributions=true)  
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=aryan-16&icon=0&color=0)](https://visitcount.itsvg.in)  
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
